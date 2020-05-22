@@ -3,6 +3,18 @@ Curvytron
 
 A web multiplayer Tron game like with curves
 
+## Building for Development
+
+From a fresh clone
+
+    nvm use
+    npm install
+    ./node_modules/.bin/gulp
+
+Run the game with:
+
+    node bin/curvytron.js
+
 ## Installation
 
 * [Get your local Curvytron server in 1 minute!](doc/installation.md)
