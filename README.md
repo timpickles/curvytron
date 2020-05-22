@@ -7,6 +7,7 @@ A web multiplayer Tron game like with curves
 
 From a fresh clone
 
+    nvm install 10.13.0
     nvm use
     npm install
     ./node_modules/.bin/gulp
